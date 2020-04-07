@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VRiT4BuKf8gcXDmdx+p0EbAvzP0PzvEQLuRib2sUq+2P8X9Q86SGCCIx8NOkmXkuI7wRxlTSKLgfDzX2MT8usA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harvinders\\source\\repos\\App6\\App6.Core\\App6.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harvinders\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\harvinders\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\harvinders\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
